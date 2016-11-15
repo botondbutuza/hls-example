@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MinglVision</string>
+    <string name="start_playback">Start playback</string>
+    <string name="start_playback_1">Start Camera 1</string>
+    <string name="start_playback_2">Start Camera 2</string>
+</resources>
